@@ -1,0 +1,7 @@
+{
+  "name": "SIGEP - Sistema Integrado de Gestão de Professores",
+  "description": "Sistema de gerenciamento acadêmico para o Programa Profitec da UEMA, focado em gestão de semestres, professores, disciplinas e relatórios, com assistente de IA integrado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
